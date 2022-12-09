@@ -18,3 +18,12 @@ FYC (For Your Coding) icons. Made with ❤️ from Human.
 <img src="icons/framework/laravel.png" width="50" />&nbsp;
 <img src="icons/framework/nextjs.png" width="80" />&nbsp;
 <img src="icons/framework/nodejs.png" width="50" />&nbsp;
+<img src="icons/framework/nuxtjs.jpeg" width="100" />&nbsp;
+<img src="icons/framework/reactjs.png" width="50" />&nbsp;
+<img src="icons/framework/rubyonrails.png" width="50" />&nbsp;
+<img src="icons/framework/svelte.png" width="50" />&nbsp;
+<img src="icons/framework/vuejs.png" width="50" />&nbsp;
+
+### Database
+<img src="icons/database/mysql.png" width="50" />&nbsp;
+<img src="icons/database/postgresql.png" width="60" />&nbsp;
