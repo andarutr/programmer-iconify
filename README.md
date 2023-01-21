@@ -44,6 +44,7 @@ FYC (For Your Coding) icons. Made with ❤️ from Human.
 <img src="icons/framework/vuejs.png" height="45" />&nbsp;
 <img src="icons/framework/laravel.png" height="50" />&nbsp;
 <img src="icons/framework/laravel-livewire.png" height="50" />&nbsp;
+<img src="icons/framework/codeigniter.png" height="50" />&nbsp;
 <img src="icons/framework/django.png" height="50" />&nbsp;
 <img src="icons/framework/aspnet.png" height="50" />&nbsp;
 <img src="icons/framework/jquery.png" height="50" />&nbsp;
